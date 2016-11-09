@@ -1,3 +1,3 @@
 # README
 
-This is a contact manager application wrotes in Ruby on Rails.
+This is a contact manager application written in Ruby on Rails.
